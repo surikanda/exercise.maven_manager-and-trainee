@@ -15,6 +15,14 @@
     * Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
     * The original document can be found [here](./original-readme.pdf)
 
+* **Stretch Goal**
+   * Upon completing each of the above asks, (particularly, 100% test-success) continue by implementing the features below.
+      1. Add a method named `calculateTransportAllowance` in `AbstractEmployee` class which calculates the transport allowance by returning 10% (default allowance) of the salary. Print the salary after calculating.
+         * `transportAllowance = 10/100*basicSalary.`
+      2. For a `Manager`, the transportation allowance is 15% of the basic salary. Override the `calculateTransportAllowance` method in Manager class which should calculate the transport allowance as 15% of the base salary. Print the salary after calculating.
+         * `transportAllowance = 15*basicSalary /100.`
+      3. For a `Trainee`, the transport allowance is same as the default allowance; the method `calculateTransportAllowance` in the base class can be used.
+      4. Invoke the `calculateTransportAllowance` on an instance of a `Manager` and `Trainee` in the `run` method of `ApplicationRunner.java`.
 
 
 
