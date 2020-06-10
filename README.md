@@ -13,6 +13,7 @@
     * The `Manager` has a travel allowance equal to 15% of the basic salary, whereas all the other employees the travel allowance is 10% of the basic salary.
     * Write a program to enforce each of these relationships. 
     * Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
+    * The original document can be found [here](./original-readme.pdf)
 
 
 
