@@ -7,7 +7,12 @@
     * the notion of inheritance
     * the notion of implementing an interface
     * the notion of extending a class  
-* **Description** - Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
+* **Description**
+    * In a company there are employees with two designations `Manager` and `Trainee`.
+    * Both employees share the same set of attributes and basic salary calculation logic is same but the basic salary of trainee and manager are different.
+    * The `Manager` has a travel allowance equal to 15% of the basic salary, whereas all the other employees the travel allowance is 10% of the basic salary.
+    * Write a program to enforce each of these relationships. 
+    * Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
 
 
 
