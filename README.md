@@ -1,15 +1,13 @@
 # Project Title
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
-
-
-
-
-## Objective
-
-#### Part 1 - ...
-* Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
+* **Objective** - To create an `Employee` abstraction of a `Manager` and `Trainee`
+* **Purpose** - To gain familiarity with:
+    * the keyword `super`
+    * the notion of polymorphism
+    * the notion of inheritance
+    * the notion of implementing an interface
+    * the notion of extending a class  
+* **Description** - Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate. 
 
 
 
