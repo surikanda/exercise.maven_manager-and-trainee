@@ -1,4 +1,4 @@
-# Project Title
+# Manager and Trainee
 
 * **Objective** - To create an `Employee` abstraction of a `Manager` and `Trainee`
 * **Purpose** - To gain familiarity with:
